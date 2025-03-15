@@ -1,0 +1,5 @@
+/home/christian/Documents/repo/springTest/src/main/java/christian/springTest/SpringTestApplication.java
+/home/christian/Documents/repo/springTest/src/main/java/christian/springTest/batchprocessing/BatchConfiguration.java
+/home/christian/Documents/repo/springTest/src/main/java/christian/springTest/batchprocessing/JobCompletionNotificationListener.java
+/home/christian/Documents/repo/springTest/src/main/java/christian/springTest/batchprocessing/Person.java
+/home/christian/Documents/repo/springTest/src/main/java/christian/springTest/batchprocessing/PersonItemProcessor.java

@@ -1,0 +1,5 @@
+christian/springTest/SpringTestApplication.class
+christian/springTest/batchprocessing/JobCompletionNotificationListener.class
+christian/springTest/batchprocessing/Person.class
+christian/springTest/batchprocessing/BatchConfiguration.class
+christian/springTest/batchprocessing/PersonItemProcessor.class
