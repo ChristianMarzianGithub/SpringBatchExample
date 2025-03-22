@@ -18,6 +18,11 @@ import org.springframework.batch.core.step.builder.StepBuilder;
 public class BatchConfiguration {
 
     @Bean
+    public DataSourceTransactionManager transactionManager(DataSource dataSource) {
+        return new DataSourceTransactionManager(dataSource);
+    }
+    
+    @Bean
     public FlatFileItemReader<Person> reader() {
         return new FlatFileItemReaderBuilder<Person>()
                 .name("personItemReader")
